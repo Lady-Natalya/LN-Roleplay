@@ -1,0 +1,363 @@
+﻿"Phrases"
+{
+	"Disabled"
+	{
+		"en"		"Sorry, the class menu has been disabled."
+		"fr"		"Desolé, le menu classe est désactivé."
+	}
+	"Youre_Dead"
+	{
+		"en"		"You can't use this command while dead."
+		"fr"		"Vous ne pouvez pas utiliser cette commande quand vous êtes mort."
+		"nl"		"Je kan dit commando niet gebruiken als je dood bent."
+	}
+	"Look"
+	{
+		"en"		"You have to look at someone to use this command."
+		"fr"		"Vous devez regarder une autre jouer pour utiliser cette commande."
+	}
+	"Handcuffed"
+	{
+		"en"		"You can't use this command while handcuffed."
+		"fr"		"Vous ne pouvez pas utiliser cette commande quand vous êtes menotté."
+		"nl"		"Je kan dit commando niet gebruiken als je handboeien draagt."
+	}
+	"Arrested"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} was arrested and sent to Jail."
+		"fr"		"{1} a été arrêté et mis en prison."
+	}
+	"Give_Cash"
+	{
+		"en"		"Give Cash"
+		"fr"		"Donner de l'argent"
+	}
+	"Gave"
+	{
+		"#format"	"{1:i},{2:s}"
+		"en"		"You gave ${1} to {2}."
+		"fr"		"Vous avez donné {1} € à {2}."
+	}
+	"Got"
+	{
+		"#format"	"{1:i},{2:s}"
+		"en"		"You got ${1} from {2}."
+		"fr"		"{2} vous a donné {1} €."
+	}
+	"Use_Card"
+	{
+		"en"		"Use Debit Card"
+		"fr"		"Utiliser une Carte de Crédit"
+	}
+	"You_Debited"
+	{
+		"#format"	"{1:i},{2:i}"
+		"en"		"You debited ${1}.  You now have ${2} in your bank account."
+		"fr"		"Vous avez donné {1} € de la banque.  Maitenant, vous avez {2} € dans la banque."
+	}
+	"You_Got_Credited"
+	{
+		"#format"	"{1:i},{2:i}"
+		"en"		"credited you ${1}.  You now have ${2} in your bank account."
+		"fr"		"Vous a donné {1} € de la banque.  Maitenant, vous avez {2} € dans la banque."
+	}
+	"Expensive"
+	{
+		"en"		"You can't afford this."
+		"fr"		"Vous n'avez pas assez d'argent."
+	}
+	"Demote"
+	{
+		"en"		"Demote"
+		"fr"		"Rétrograder"
+	}
+	"You_Locked_Door"
+	{
+		"en"		"You locked the door."
+		"fr"		"Vous avez verouiller la porte."
+	}
+	"You_Unlocked_Door"
+	{
+		"en"		"You unlocked the door."
+		"fr"		"Vous avez déverouillez la porte."
+	}
+	"Your_Class"
+	{
+		"#format"	"{1:s}"
+		"en"		"You are a {1}."
+		"fr"		"Vous êtes un(e) {1}."
+	}
+	"Your_Team"
+	{
+		"#format"	"{1:s}"
+		"en"		"Your team is {1}."
+		"fr"		"Votre équipe est {1}."
+	}
+	"Respawned"
+	{
+		"en"		"You have been respawned."
+		"fr"		"Vous avez respawn."
+	}
+	"Respawn_Time"
+	{
+		"#format"	"{1:i}"
+		"en"		"After you die you must wait {1} seconds before you can respawn."
+		"fr"		"Une fois que vous mourrez, vous devez attendre {1} secondes avant de pouvoir respawn."
+	}
+	"Class_Wait"
+	{
+		"en"		"You must wait before you can change classes."
+		"fr"		"Vous devez attendre avant de pouvoir changer de classe."
+	}
+	"RP_Menu"
+	{
+		"en"		"Roleplay Menu"
+		"fr"		"Menu RolePlay"
+	}
+	"Class_Menu"
+	{
+		"en"		"Class Menu"
+		"fr"		"Menu de Classes"
+	}
+	"Door_Menu"
+	{
+		"en"		"Door Menu"
+		"fr"		"Menu Porte"
+	}
+	"Item_Menu"
+	{
+		"en"		"Item Menu"
+		"fr"		"Menu d'Articles"
+	}
+	"Prop_Menu"
+	{
+		"en"		"Prop Menu"
+		"fr"		"Prop Menu"
+	}
+	"Car_Menu"
+	{
+		"en"		"Car Menu"
+		"fr"		"Menu des Voitures"
+	}
+	"Special_Menu"
+	{
+		"en"		"Special Menu"
+		"fr"		"Menu Spécial"
+	}
+	"RP_Settings"
+	{
+		"en"		"RP Settings"
+		"fr"		"Paramètres RP"
+	}
+	"Settings_Menu"
+	{
+		"en"		"RP Settings Menu"
+		"fr"		"Menu Paramètres RP"
+	}
+	"Youre_Female"
+	{
+		"en"		"You are Female"
+		"fr"		"Vous êtes une Femme"
+	}
+	"Youre_Male"
+	{
+		"en"		"You are Male"
+		"fr"		"Vous êtes un Homme"
+	}
+	"Be_Female"
+	{
+		"en"		"Switch to Female"
+		"fr"		"Devenir une Femme"
+	}
+	"Be_Male"
+	{
+		"en"		"Switch to Male"
+		"fr"		"Devenir un Homme"
+	}
+	"ASSASSINATION"
+	{
+		"#format"	"{1:s}"
+		"en"		"You were assassinated.  You are now a {1}."
+		"fr"		"Vous avez été assassiné. Tu es désormais un(e) {1}."
+	}
+	"Go_To_ATM"
+	{
+		"en"		"You must be at an ATM to use this command."
+		"fr"		"Vous devez être à un guichet pour utiliser cette commande."
+	}
+	"No_Money_To_Deposit"
+	{
+		"en"		"You have no money to deposit."
+		"fr"		"Vous n'avez pas d'argent à déposer."
+	}
+	"No_Money_To_Withdraw"
+	{
+		"en"		"You have no money to withdraw."
+		"fr"		"Vous n'avez pas d'argent à retirer."
+	}
+	"Deposit_Amount"
+	{
+		"en"		"Select amount to Deposit:"
+		"fr"		"Sélectionnez le montant à déposer:"
+	}
+	"Withdraw_Amount"
+	{
+		"en"		"Select amount to Withdraw:"
+		"fr"		"Sélectionnez le montant à retirer:"
+	}
+	"Withdrew"
+	{
+		"#format"	"{1:i}"
+		"en"		"You withdrew ${1}."
+		"fr"		"Vous avez retiré {1} €."
+	}
+	"Withdrew_All"
+	{
+		"en"		"You withdrew all of your money."
+		"fr"		"Vous avez retiré tout votre argent."
+	}
+	"All_Cash"
+	{
+		"en"		"All Cash"
+		"fr"		"Tout votre argent"
+	}
+	"Max_Out"
+	{
+		"en"		"Max Out"
+		"fr"		"Argent Maximum"
+	}
+	"Deposit"
+	{
+		"en"		"Deposit"
+		"fr"		"Déposer"
+	}
+	"Withdraw"
+	{
+		"en"		"Withdraw"
+		"fr"		"Retirer"
+	}
+	"ATM_Menu"
+	{
+		"en"		"ATM Menu"
+		"fr"		"Menu du Guichet"
+	}
+	"Bank_Menu"
+	{
+		"en"		"Bank Menu"
+		"fr"		"Menu Banque"
+	}
+	"Bank"
+	{
+		"#format"	"{1:i}"
+		"en"		"You have ${1} in the bank."
+		"fr"		"Vous avez {1} € à la banque."
+		"nl"		"Je hebt ${1} op je bankrekening staan."
+	}
+	"HUD"
+	{
+		"#format"	"{1:i},{2:i},{3:s},{4:s},{5:i}"
+		"en"		"Cash: ${1}  Bank Account: ${2}\nTeam: {3}  Class: {4}\nSalary: ${5}"
+		"fr"		"Argent: {1} €  Banque: {2} €\nÉquipe: {3}  Classe: {4}\nSalaire: {5} €"
+	}
+	"HUD_T"
+	{
+		"#format"	"{1:i},{2:i},{3:s},{4:s},{5:i},{6:s},{7:i}"
+		"en"		"Cash: ${1}  Bank Account: ${2}\nTeam: {3}  Class: {4}\nSalary: ${5}  {6} Score: {7}"
+		"fr"		"Argent: {1} €  Banque: {2} €\nÉquipe: {3}  Classe: {4}\nSalaire: {5} €  Points {6}: {7}"
+	}
+	"HUD_ATM"
+	{
+		"#format"	"{1:i},{2:i},{3:s},{4:s},{5:i}"
+		"en"		"Cash: ${1}  Bank Account: ${2}\nTeam: {3}  Class: {4}\nSalary: ${5}  You are at an ATM."
+		"fr"		"Argent: {1} €  Banque: {2} €\nÉquipe: {3}  Classe: {4}\nSalaire: {5} €  Vous êtes à un Guichet."
+	}
+	"HUD_ATM_T"
+	{
+		"#format"	"{1:i},{2:i},{3:s},{4:s},{5:i},{6:s},{7:i}"
+		"en"		"Cash: ${1}  Bank Account: ${2}\nTeam: {3}  Class: {4}\nSalary: ${5}  {6} Score: {7}  You are at an ATM."
+		"fr"		"Argent: {1} €  Banque: {2} €\nÉquipe: {3}  Classe: {4}\nSalaire: {5} €  Points {6}: {7}  Vous êtes à un Guichet."
+	}
+	"Money_Printer_Hint"
+	{
+		"#format"	"{1:i}"
+		"en"		"Money Printer: ${1}"
+		"fr"		"Imprimanter d'Argent: {1} €"
+	}
+	"Money_Printer_Spawned"
+	{
+		"en"		"You spawned a Money Printer."
+		"fr"		"Vous faite apparaître une Imprimanter d'Argent."
+	}
+	"Money_Printer_Gives"
+	{
+		"#format"	"{1:i}"
+		"en"		"You found ${1} inside the Money Printer."
+		"fr"		"Vous avez trouvé {1} € dans l'Imprimanter d'Argent."
+	}
+	"Money_Printer_Broken"
+	{
+		"#format"	"{1:i}"
+		"en"		"You broke a Money Printer and found ${1} inside."
+		"fr"		"Vous avez cassé l'Imprimanter d'Argent et vous avez trouvé {1} € dans l'intérieur."
+	}
+	"Money_Printer_Empty"
+	{
+		"en"		"This Money Printer is empty."
+		"fr"		"Desolé, l'Imprimanter d'Argent est vide."
+	}
+	"Driver"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} is driving this car."
+		"fr"		"{1} conduite cette voiture."
+	}
+	"No_Driver"
+	{
+		"en"		"This car doesn't have a driver."
+		"fr"		"Cette voiture n'a pas une conduite."
+	}
+	"No_Radio"
+	{
+		"en"		"Your class doesn't have a radio."
+		"fr"		"Votre classe n'as pas un radio portatif."
+	}
+	"Team_Mode_On"
+	{
+		"en"		"Team Mode is on.  Earn money to score points for your team."
+		"fr"		"La Mode Équipe est activé.  Obtenir de l'argent pour marquer les points pour votre équipe."
+	}
+	"Paid_By_DD"
+	{
+		"#format"	"{1:i}"
+		"en"		"You were paid ${1} by direct deposit."
+		"fr"		"Vous avez été payé {1} € par dépôt direct."
+	}
+	"Paid_In_Cash"
+	{
+		"#format"	"{1:i}"
+		"en"		"You were paid ${1} in cash."
+		"fr"		"Vous avez été payé {1} € en argent."
+	}
+	"Paid_For_Doors"
+	{
+		"#format"	"{1:i}"
+		"en"		"You were taxed ${1} for your doors."
+		"fr"		"Vous avez payé {1} € pour vos portes."
+	}
+	"Warrant"
+	{
+		"en"		"Warrant Player"
+		"fr"		"Faire un Mandat d'Arrêt"
+	}
+	"Unwarrant"
+	{
+		"en"		"Cancel Warrant"
+		"fr"		"Annuler le Mandat d'Arrêt"
+	}
+	"Break_Cuffs"
+	{
+		"en"		"Break Handcuffs"
+		"fr"		"Casser les Menottes"
+	}
+}

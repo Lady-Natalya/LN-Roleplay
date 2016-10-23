@@ -1,0 +1,82 @@
+﻿"Phrases"
+{
+	"Disabled"
+	{
+		"en"		"Sorry, the prop menu has been disabled."
+		"fr"		"Desolé, le menu prop est désactivé."
+	}
+	"Deleted"
+	{
+		"#format"		"{1:i}"
+		"en"		"You deleted prop #{1}."
+		"fr"		"Vous avez supprimé objet #{1}."
+	}
+	"Credits"
+	{
+		"#format"		"{1:i}"
+		"en"		"You have {1} Credits."
+		"fr"		"Vous avez {1} Crédits."
+	}
+	"Spawned_10"
+	{
+		"en"		"You spawned 10 props already.  Please delete some or rejoin to spawn more."
+		"fr"		"Vous avez deja spawn 10 objets. Supprimes en ou retry pour en remettre."
+	}
+	"Spawned_15"
+	{
+		"en"		"You spawned 10 props already.  Please delete some or rejoin to spawn more."
+		"fr"		"Vous avez deja spawn 15 objets. Supprimes en ou retry pour en remettre."
+	}
+	"Spawned_Allowed"
+	{
+		"#format"		"{1:i},{2:i}"
+		"en"		"You spawned {1} props of {2} allowed."
+		"fr"		"Vous avez spawned {1} objets de {2} autorisés."
+	}
+	"Spawned_1_Allowed"
+	{
+		"#format"		"{1:i}"
+		"en"		"You spawned 1 prop of {1} allowed."
+		"fr"		"Vous avez spawned 1 objet de {1} autorisés."
+	}
+	"Error_L"
+	{
+		"en"		"Invalid Location"
+		"fr"		"Cette position n'est pas valide."
+	}
+	"Error_P"
+	{
+		"#format"		"{1:s}"
+		"en"		"Error in rp_props.txt for prop: {1}.  Please tell an admin."
+		"fr"		"Il y a eu une erreur pour le prop {1} dans le rp_props.txt -- appellez un admin."
+	}
+	"Error_No_Spawn"
+	{
+		"en"		"Your prop could not be spawned."
+		"fr"		"Votre objet ne peut pas être spawn."
+	}
+	"Expensive"
+	{
+		"#format"		"{1:i}"
+		"en"		"You need at least ${1} to buy this."
+		"fr"		"Vous avez besoin de ${1} pour acheter cela."
+	}
+	"Expensive2"
+	{
+		"#format"		"{1:i}"
+		"en"		"You need at least {1} credits to buy this."
+		"fr"		"Vous avez besoin de {1} crédits pour acheter cela."
+	}
+	"Frozen"
+	{
+		"#format"		"{1:i}"
+		"en"		"You froze prop #{1}."
+		"fr"		"Vous avez immobilisé objet #{1}."
+	}
+	"Unfroze"
+	{
+		"#format"		"{1:i}"
+		"en"		"You unfroze prop #{1}."
+		"fr"		"Vous avez mobilisé objet #{1}."
+	}
+}

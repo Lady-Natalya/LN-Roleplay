@@ -1,0 +1,387 @@
+﻿"Phrases"
+{
+	"Disabled"
+	{
+		"en"		"Sorry, the item pack has been disabled."
+		"fr"		"Desolé, le menu item est désactivé."
+		"nl"		"Onze excuses, het inventaris is uitgeschakeld."
+	}
+	"Not_Admin"
+	{
+		"en"		"You must be an admin to do this."
+		"fr"		"Désolé, vous devez être un administrateur ou VIP pour cela."
+		"nl"		"Je moet een administrator zijn om dit te doen."
+	}
+	"Deleted"
+	{
+		"#format"		"{1:s}"
+		"en"		"You trashed one of your {1}."
+		"fr"		"Vous avez supprimé un de vos {1}."
+		"nl"		"Je hebt een van je {1} verwijderd."
+	}
+	"Not_In_DB"
+	{
+		"#format"		"{1:s}"
+		"en"		"Client {1} not in SQL Database -- Attempting to Add Client to Database"
+		"fr"		"Client {1} n'est pas dans le DB -- Le serveur va essayer d'ajouter le client à la DB."
+		"nl"		"Client {1} is niet in de SQL Database -- De server probeert de Client aan de Database toe te voegen."
+	}
+	"DB_ERROR"
+	{
+		"#format"		"{1:s}"
+		"en"		"[ITEM ERROR] {1} -- Please notify an admin."
+		"fr"		"[ERREUR ITEM] {1} -- S'il vous plaît, informer un administrateur."
+		"nl"		"[ITEM ERROR] {1} -- Contacteer een admin aub."
+	}
+	"Items_Loaded"
+	{
+		"#format"		"{1:i}"
+		"en"		"Your items have been loaded successfully. ({1} Slots Open)"
+		"fr"		"Vos articles ont été chargées avec succès."
+		"nl"		"Je items zijn succesvol geladen. ({1} Open Slots)"
+	}
+	"Youre_Dead"
+	{
+		"en"		"You can't use this command while dead."
+		"fr"		"Vous ne pouvez pas utiliser cette commande quand vous êtes mort."
+		"nl"		"Je kan dit commando niet gebruiken als je dood bent."
+	}
+	"Handcuffed"
+	{
+		"en"		"You can't use this command while handcuffed."
+		"fr"		"Vous ne pouvez pas utiliser cette commande quand vous êtes menotté."
+		"nl"		"Je kan dit commando niet gebruiken als je handboeien draagt."
+	}
+	"Reset_Items"
+	{
+		"#format"		"{1:s}"
+		"en"		"You reset the items of player {1}."
+		"fr"		"Vous avez réinitialiser les articles de {1}."
+		"nl"		"Je hebt de items van speler {1} geresset."
+	}
+	"Full_Health_Already"
+	{
+		"en"		"You already have full health!!"
+		"fr"		"Vous avez deja 100 HP."
+		"nl"		"Je hebt al 100 HP!!"
+	}
+	"Full_Health"
+	{
+		"en"		"You have been returned to full health."
+		"fr"		"Vous avez 100 HP."
+		"nl"		"Je hebt nu 100 HP."
+	}
+	"Items_Left"
+	{
+		"#format"		"{1:i},{2:s}"
+		"en"		"You have {1} {2} left."
+		"fr"		"Vous avez {1} {2} restant."
+		"nl"		"Je hebt {1} {2} over."
+	}
+	"Num_HP"
+	{
+		"#format"		"{1:i}"
+		"en"		"You have been given {1} HP."
+		"fr"		"Vous avez été donné {1} HP."
+		"nl"		"Je hebt {1} HP gekregen."
+	}
+	"Too_Much_HP"
+	{
+		"en"		"You have been given 50 HP."
+		"fr"		"Vous avez été donné 50 HP."
+		"nl"		"Je hebt 50 HP gekregen."
+	}
+	"Error_L"
+	{
+		"en"		"Invalid Location"
+		"fr"		"Cette position n'est pas valide."
+		"nl"		"Ongeldige Locatie"
+	}
+	"Expensive"
+	{
+		"#format"		"{1:i}"
+		"en"		"You can't afford this.  You need ${1} to buy it."
+		"fr"		"Vous n'avez pas assez d'argent.  Vous avez besoin de {1} $ pour ça."
+		"nl"		"Je kan dit niet betalen.  Je hebt ${1} nodig om dit te kopen."
+	}
+	"Dropped"
+	{
+		"#format"		"{1:s}"
+		"en"		"You dropped a {1}."
+		"fr"		"Vous avez laissé tomber un(e) {1}."
+		"nl"		"Je hebt een {1} gedropt."
+	}
+	"Dropped_All"
+	{
+		"#format"		"{1:s}"
+		"en"		"You dropped all of your {1}."
+		"fr"		"Vous avez laissé tomber tous vos {1}."
+		"nl"		"Je hebt al je {1} gedropt."
+	}
+	"Full_Armour_Already"
+	{
+		"en"		"You already have full armour!!"
+		"fr"		"Vous avez deja 100 armure."
+		"nl"		"Je hebt all 100 pantser!!"
+	}
+	"Full_Armour"
+	{
+		"en"		"You have been returned to full armour."
+		"fr"		"Vous avez 100 armure."
+		"nl"		"Je hebt nu 100 pantser."
+	}
+	"Unlocked_Door"
+	{
+		"en"		"You unlocked the door."
+		"fr"		"Vous déverrouillé la porte."
+		"nl"		"Je hebt de deur ontgrendeld."
+	}
+	"Unlocked_Car"
+	{
+		"en"		"You unlocked the car."
+		"fr"		"Vous déverrouillé la voiture."
+		"nl"		"Je hebt de auto ontgrendeld."
+	}
+	"Only_Doors_Cars"
+	{
+		"en"		"You can only use this item on vehicles or rotating doors."
+		"fr"		"Vous devez utiliser cette commande sur une voiture ou une porte pour la (de-)verrouiller."
+		"nl"		"Je kan dit item alleen gebruiken op auto's of deuren."
+	}
+	"Bought_B"
+	{
+		"#format"		"{1:s}"
+		"en"		"You bought a {1} with money from your bank account."
+		"fr"		"Vous avez acheté un(e) {1} avec votre argent du compte bancaire."
+		"nl"		"Je hebt een {1} gekocht met geld van je bankrekening."
+	}
+	"Bought_C"
+	{
+		"#format"		"{1:s}"
+		"en"		"You bought a {1} with your cash."
+		"fr"		"Vous avez acheté un(e) {1} avec votre argent."
+		"nl"		"Je hebt een {1} gekocht met je contant geld."
+	}
+	"Need_Slots"
+	{
+		"#format"		"{1:i}"
+		"en"		"You can't fit this item in your pack.  You need at least {1} slot(s) open."
+		"fr"		"C'est trop gros pour votre sac à dos. Vous avez besoin d'au moins {1} slots ouverts."
+		"nl"		"Dit item kan niet in je inventaris.  Je hebt minstens {1} open slot(s) nodig."
+	}
+	"Need_Slots_Weapon"
+	{
+		"#format"		"{1:i}"
+		"en"		"You can't fit this weapon in your pack.  You need at least {1} slot(s) open."
+		"fr"		"C'est trop gros pour votre sac à dos. Vous avez besoin d'au moins {1} slots ouverts pour cette arme."
+		"nl"		"Dit wapen kan niet in je inventaris.  Je hebt minstens {1} open slot(s) nodig."
+	}
+	"Have_Slots"
+	{
+		"#format"		"{1:i}"
+		"en"		"You have {1} slot(s) open."
+		"fr"		"Vous avez {1} slot(s) ouvert(s)."
+		"nl"		"Je hebt {1} open slot(s)."
+	}
+	"No_Equip_P"
+	{
+		"en"		"You can't equip this when you are already using a primary weapon."
+		"fr"		"Vous ne pouvez pas équiper cette option lorsque vous utilisez déjà une arme primaire."
+		"nl"		"Je kan dit niet dragen als je al een primair wapen draagt."
+	}
+	"No_Holster_P"
+	{
+		"en"		"You need a primary weapon to use this command."
+		"fr"		"Vous avez besoin d'une arme primaire pour utiliser cette commande."
+		"nl"		"Je hebt een primair wapen nodig om dit commando te gebruiken."
+	}
+	"Holstered_P"
+	{
+		"#format"		"{1:s}"
+		"en"		"You holstered your primary weapon. ({1})"
+		"fr"		"Vous avez rangé votre arme primaire. ({1})"
+		"nl"		"Je hebt je primaire wapen in je inventaris gestopt. ({1})"
+	}
+	"No_Equip_S"
+	{
+		"en"		"You can't equip this when you are already using a secondary weapon."
+		"fr"		"Vous ne pouvez pas équiper cette option lorsque vous utilisez déjà une arme secondaire."
+		"nl"		"Je kan dit niet dragen als je al een secundair wapen draagt."
+	}
+	"No_Holster_S"
+	{
+		"en"		"You need a secondary weapon to use this command."
+		"fr"		"Vous avez besoin d'une arme secondaire pour utiliser cette commande."
+		"nl"		"Je hebt een secundair wapen nodig om dit commando te gebruiken."
+	}
+	"Holstered_S"
+	{
+		"#format"		"{1:s}"
+		"en"		"You holstered your secondary weapon. ({1})"
+		"fr"		"Vous avez rangé votre arme secondaire.({1})"
+		"nl"		"Je hebt je secundaire wapen in je inventaris gestopt. ({1})"
+	}
+	"Holstering"
+	{
+		"en"		"You are already holstering a weapon!!"
+		"fr"		"Vous êtes déjà en train de ranger une arme!!"
+		"nl"		"Je bent al een wapen in je inventaris aan het stoppen!!"
+	}
+	"Grabbed"
+	{
+		"#format"		"{1:s},{2:i}"
+		"en"		"You picked up a {1}.  You now have {2} slots open."
+		"fr"		"Vous avez choisi un(e) {1}.  Maintenant vous avez {2} slots ouverts."
+		"nl"		"Je hebt een {1} gekozen.  Je hebt nu {2} open slot(s)."
+	}
+	"Menu_Use"
+	{
+		"#format"		"{1:s}"
+		"en"		"Use a {1}"
+		"fr"		"Utilisez un(e) {1}"
+		"nl"		"Gebruik een {1}"
+	}
+	"Menu_Eat"
+	{
+		"#format"		"{1:s}"
+		"en"		"Eat a {1}"
+		"fr"		"Manger un(e) {1}"
+		"nl"		"Eet een {1}"
+	}
+	"Menu_Drink"
+	{
+		"#format"		"{1:s}"
+		"en"		"Drink a {1}"
+		"fr"		"Boire un(e) {1}"
+		"nl"		"Drink een {1}"
+	}
+	"Menu_Trash"
+	{
+		"#format"		"{1:s}"
+		"en"		"Discard a {1}"
+		"fr"		"Jetez un(e) {1}"
+		"nl"		"Verwijder een {1}"
+	}
+	"Menu_Drop1"
+	{
+		"#format"		"{1:s}"
+		"en"		"Drop 1 {1}"
+		"fr"		"Déposez un(e) {1}"
+		"nl"		"Drop een {1}"
+	}
+	"Menu_DropA"
+	{
+		"#format"		"{1:s}"
+		"en"		"Drop all of your {1}"
+		"fr"		"Déposez tous vos {1}"
+		"nl"		"Drop al je {1}"
+	}
+	"Yes"
+	{
+		"en"		"Yes"
+		"fr"		"Oui"
+		"nl"		"Ja"
+	}
+	"No"
+	{
+		"en"		"No"
+		"fr"		"Non"
+		"nl"		"Nee"
+	}
+	"Inventory"
+	{
+		"en"		"Inventory:"
+		"fr"		"Inventaire:"
+		"nl"		"Inventaris:"
+	}
+	"R_U_Sure"
+	{
+		"en"		"Are you sure?"
+		"fr"		"Vous etez sur?"
+		"nl"		"Ben je zeker?"
+	}
+	"Itemless"
+	{
+		"en"		"You have no items."
+		"fr"		"Vous n'avez pas d'articles."
+		"nl"		"Je hebt geen items."
+	}
+	"Inv_Full"
+	{
+		"en"		"Your inventory is full."
+		"fr"		"Votre inventaire est à 100%."
+		"nl"		"Je inventaris is vol."
+	}
+	"Hunger"
+	{
+		"#format"		"{1:i}"
+		"en"		"Hunger: {1}"
+		"fr"		"Faim: {1}"
+		"nl"		"Honger: {1}"
+	}
+	"Hungry"
+	{
+		"en"		"You need to eat!!"
+		"fr"		"Vous devez manger!!"
+		"nl"		"Je moet eten!!"
+	}
+	"Not_Hungry"
+	{
+		"en"		"You don't have any hunger."
+		"fr"		"Vouz n'avez pas faim."
+		"nl"		"Je hebt geen honger."
+	}
+	"You_Ate"
+	{
+		"#format"		"{1:s},{2:i}"
+		"en"		"You ate a {1}.  Hunger: {2}"
+		"fr"		"Vous avez mangé un(e) {1}.  Faim: {2}"
+		"nl"		"Je hebt een {1} gegeten.  Honger: {2}"
+	}
+	"You_Drank"
+	{
+		"#format"		"{1:s},{2:i}"
+		"en"		"You drank a {1}.  Hunger: {2}"
+		"fr"		"Vous avez bu un(e) {1}.  Faim: {2}"
+	}
+	"Wrong_Team"
+	{
+		"en"		"Your team isn't allowed to buy this."
+		"fr"		"Votre équipe ne peut pas acheter ça."
+		"nl"		"Je team kan dit niet kopen."
+	}
+	"Wrong_Class"
+	{
+		"en"		"Your class isn't allowed to buy this."
+		"fr"		"Votre classe ne peut pas acheter ça."
+		"nl"		"Je klasse kan dit niet kopen."
+	}
+	"Vend_Menu"
+	{
+		"en"		"Vending Machine"
+		"fr"		"Distributeur Automatique"
+	}
+	"Go_To_Vend"
+	{
+		"en"		"You must be at Vending Machine to use this command."
+		"fr"		"Vous devez être à un Distributeur Automatique pour utiliser cette commande."
+	}
+	"Starvation"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} starved to death."
+		"fr"		"{1} est mort de faim."
+	}
+	"Menu_Wear"
+	{
+		"#format"		"{1:s}"
+		"en"		"Wear a {1}"
+		"fr"		"Portez un(e) {1}"
+	}
+	"Menu_Take_Off"
+	{
+		"#format"		"{1:s}"
+		"en"		"Take off the {1}."
+		"fr"		"Enlevez le/la {1}."
+	}
+}
