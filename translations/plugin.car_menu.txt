@@ -1,0 +1,282 @@
+"Phrases"
+{
+	"Disabled"
+	{
+		"en"		"Sorry, the car menu has been disabled."
+		"fr"		"Desolé, le menu voiture est désactivé."
+		"nl"		"Onze excuses, het auto menu is uitgeschakeld."
+	}
+	"Deleted"
+	{
+		"#format"		"{1:s}"
+		"en"		"You deleted your {1}."
+		"fr"		"Vous avez supprimé votre {1}."
+		"nl"		"Je hebt je {1} verwijderd."
+	}
+	"No_Gas"
+	{
+		"en"		"This car is out of gas."
+		"fr"		"La voiture n'a pas d'essence."
+		"nl"		"Deze auto heeft geen benzine meer."
+	}
+	"Youre_Dead"
+	{
+		"en"		"You can't use this command while dead."
+		"fr"		"Vous ne pouvez pas utiliser cette commande quand vous êtes mort."
+		"nl"		"Je kan dit commando niet gebruiken als je dood bent."
+	}
+	"Handcuffed"
+	{
+		"en"		"You can't use this command while handcuffed."
+		"fr"		"Vous ne pouvez pas utiliser cette commande quand vous êtes menotté."
+		"nl"		"Je kan dit commando niet gebruiken als je handboeien draagt."
+	}
+	"Not_Yours"
+	{
+		"en"		"You can't stow another player's car."
+		"fr"		"Vous ne pouvez pas ranger la voiture d'un autre joueur."
+		"nl"		"Je kan de auto van iemand anders niet in je garage zetten."
+	}
+	"Stowed"
+	{
+		"#format"		"{1:s}"
+		"en"		"You stowed your {1}."
+		"fr"		"Vous avez rangé votre {1}."
+		"nl"		"Je hebt je {1} in de garage gezet."
+	}
+	"Get_Inside"
+	{
+		"en"		"You must be inside a car to use this command."
+		"fr"		"Vous devez etre dans une voiture pour utiliser cette commande."
+		"nl"		"Je moet in een auto zitten om dit commando te gebruiken"
+	}
+	"Own_10"
+	{
+		"en"		"You already own 10 cars."
+		"fr"		"Vous avez deja 10 voitures."
+		"nl"		"Je hebt al 10 auto's."
+	}
+	"Colour"
+	{
+		"#format"		"{1:s}"
+		"en"		"You chose colour #{1}."
+		"fr"		"Vous avez choisi la couleur #{1}."
+		"nl"		"Je hebt kleur #{1} gekozen."
+	}
+	"Car_On"
+	{
+		"en"		"You started the car."
+		"fr"		"Vous avez démarré la voiture."
+		"nl"		"Je hebt de auto gestart."
+	}
+	"Car_Off"
+	{
+		"en"		"You turned off the car."
+		"fr"		"Vous avez arrêté la voiture."
+		"nl"		"Je hebt de auto uitgezet."
+	}
+	"No_Siren"
+	{
+		"en"		"This car doesn't have a siren."
+		"fr"		"Cette voiture n'a pas une sirène."
+		"nl"		"Deze auto heeft geen sirene."
+	}
+	"Siren_On"
+	{
+		"en"		"You turned on the siren."
+		"fr"		"Vous avez activé la sirène."
+		"nl"		"Je hebt de sirene aangezet."
+	}
+	"Siren_Off"
+	{
+		"en"		"You turned off the siren."
+		"fr"		"Vous avez désactivé la sirène."
+		"nl"		"Je hebt de sirene uitgezet."
+	}
+	"Already_Spawned"
+	{
+		"en"		"You already spawned this car."
+		"fr"		"Cette voiture est deja dans le jeu."
+		"nl"		"Je hebt deze auto al geplaatst."
+	}
+	"Colour_In_Garage"
+	{
+		"en"		"You can only change the colour when the car is in your garage."
+		"fr"		"Vous pouvez changer la couleur de votre voiture lorsqu'elle est dans votre garage."
+		"nl"		"Je auto moet in de garage staan om de kleur te veranderen."
+	}
+	"Spawn"
+	{
+		"#format"		"{1:s}"
+		"en"		"You spawned your {1}."
+		"fr"		"Vous faite apparaître votre {1}."
+		"nl"		"Je hebt je {1} geplaatst."
+	}
+	"Error_V"
+	{
+		"#format"		"{1:s}"
+		"en"		"Error in cars.ini for vehicle: {1}."
+		"fr"		"Il ya une erreur dans cars.ini pour la voiture: {1}."
+		"nl"		"Er is een error in cars.ini voor deze auto: {1}."
+	}
+	"Error_No_Spawn"
+	{
+		"en"		"Your vehicle could not be spawned."
+		"fr"		"Votre voiture ne peut pas apparaître."
+		"nl"		"Je auto kon niet geplaatst worden."
+	}
+	"Error_L"
+	{
+		"en"		"Invalid Location"
+		"fr"		"Cette position n'est pas valide."
+		"nl"		"Ongeldige Locatie"
+	}
+	"Expensive"
+	{
+		"#format"		"{1:i}"
+		"en"		"You can't afford this vehicle.  You need ${1} to buy it."
+		"fr"		"Vous n'avez pas assez d'argent.  Vous avez besoin de {1} $ pour cette voiture."
+		"nl"		"Je kan deze auto niet betalen.  Je hebt ${1} nodig om deze auto te kopen."
+	}
+	"Bank"
+	{
+		"#format"		"{1:i}"
+		"en"		"You have ${1} in the bank."
+		"fr"		"Vous avez {1} $ à la banque."
+		"nl"		"Je hebt ${1} op je bankrekening staan."
+	}
+	"Bought_B"
+	{
+		"#format"		"{1:s}"
+		"en"		"You bought a {1} with money from your bank account."
+		"fr"		"Vous avez acheté un(e) {1} avec votre argent du compte bancaire."
+		"nl"		"Je hebt een {1} gekocht met geld van je bankrekening."
+	}
+	"Bought_C"
+	{
+		"#format"		"{1:s}"
+		"en"		"You bought a {1} with your cash."
+		"fr"		"Vous avez acheté un(e) {1} avec votre argent."
+		"nl"		"Je hebt een {1} gekocht met je contant geld."
+	}
+	"Selection_Error"
+	{
+		"en"		"There was an error with your selection.  Your car could not be selected."
+		"fr"		"Il y a une erreur avec la sélection. Votre voiture ne peut-être sélectionnée."
+		"nl"		"Er was een fout met je selectie.  Je auto kon niet worden geselecteerd."
+	}
+	"Not_Enough_Minerals"
+	{
+		"#format"		"{1:i}"
+		"en"		"You can't afford this.  You need ${1} to buy it."
+		"fr"		"Vous n'avez pas assez d'argent.  Vous avez besoin de {1} $."
+		"nl"		"Je kan dit niet betalen.  Je hebt ${1} nodig om het te kopen."
+	}
+	"Look_At_Car"
+	{
+		"en"		"You must look at a car to use this command."
+		"fr"		"Vous devez regarder une voiture pour utiliser cette commande."
+		"nl"		"Je moet naar een auto kijken om dit commando te gebruiken."
+	}
+	"Fueling_Completed"
+	{
+		"en"		"You finished fueling the car."
+		"fr"		"Vous avez fini de pomper l'essence."
+		"nl"		"Je hebt je auto bijgetankt."
+	}
+	"Given_Car"
+	{
+		"#format"		"{1:s}"
+		"en"		"You were given a {1}."
+		"fr"		"Vous avez reçu une voiture.  ({1})"
+		"nl"		"Je hebt een {1} gekregen."
+	}
+	"Gave_Car"
+	{
+		"#format"		"{1:s}"
+		"en"		"You gave your car to {1}."
+		"fr"		"Vous avez donné une voiture à {1}."
+		"nl"		"Je hebt je auto aan {1} gegeven."
+	}
+	"Speed"
+	{
+		"#format"		"{1:i}"
+		"en"		"Speed: {1}"
+		"fr"		"Vitesse: {1}"
+		"nl"		"Snelheid: {1}"
+	}
+	"Speed+Gas"
+	{
+		"#format"		"{1:i},{2:i}"
+		"en"		"Speed: {1}\nGas: {2}"
+		"fr"		"Vitesse: {1}\nEssence: {2}"
+	}
+	"Garage"
+	{
+		"en"		"Garage"
+		"fr"		"Garage"
+	}
+	"Buy_Cars"
+	{
+		"en"		"Buy Cars"
+		"fr"		"Acheter des Voitures"
+	}
+	"VIP_Cars"
+	{
+		"en"		"VIP Cars"
+		"fr"		"Acheter une Voiture VIP"
+	}
+	"Help"
+	{
+		"en"		"Help"
+		"fr"		"Aide"
+	}
+	"Car_Menu"
+	{
+		"en"		"Car Menu:"
+		"fr"		"Menu Voiture:"
+	}
+	"Car_Qty"
+	{
+		"#format"		"{1:i}"
+		"en"		"You have {1} cars."
+		"fr"		"Vous avez {1} voitures."
+	}
+	"Car_One"
+	{
+		"en"		"You have one car."
+		"fr"		"Vous avez une voitures."
+	}
+	"Car_Zero"
+	{
+		"en"		"You have no cars."
+		"fr"		"Vous n'avez pas une voiture."
+	}
+	"Spawn_Car"
+	{
+		"en"		"Spawn Car"
+		"fr"		"Faire Apparaître la Voiture"
+	}
+	"Car_Info"
+	{
+		"en"		"Car Info"
+		"fr"		"Infos Voiture"
+	}
+	"Give_Away_Car"
+	{
+		"en"		"Give Away Car"
+		"fr"		"Céder la Voiture"
+	}
+	"Average_MPG"
+	{
+		"#format"		"{1:i}"
+		"en"		"Average MPG: {1}"
+		"fr"		"Moyenne Miles par Gallon: {1}"
+	}
+	"Maximum_Gas"
+	{
+		"#format"		"{1:i}"
+		"en"		"Maximum Gas: {1} Gallons"
+		"fr"		"Maximum d'Essence: {1} Gallons"
+	}
+}
